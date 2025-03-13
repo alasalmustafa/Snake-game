@@ -25,8 +25,8 @@ pygame.display.set_caption('لعبة الأفعى')
 clock = pygame.time.Clock()
 
 # حجم كل قطعة من الأفعى وحجم الخطوة
-snake_block = 10
-snake_speed = 15
+snake_block = 8
+snake_speed = 14
 
 # خط الكتابة
 font_style = pygame.font.SysFont("bahnschrift", 25)
